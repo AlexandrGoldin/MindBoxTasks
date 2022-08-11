@@ -1,8 +1,7 @@
 # MindBoxTasks
 ### ТЗ для C# Junior-разработчика из двух вопросов  от работодателя "MindBox" г. Москва :
-![mindBox](https://user-images.githubusercontent.com/50864552/184178744-e9eb704d-5bb4-4c5e-8a8c-665a4d893ef8.PNG)
--------
-
+![Mindbox Task](https://user-images.githubusercontent.com/50864552/184179400-794f587a-867a-4069-81de-082cce31262d.PNG)
+___________________
 #### 1) Написать  на C# библиотеку для вычисления площади круга, треугольника и др. плоских фигур;
 #### Stack:
 + ASP.NET Core 3.1
