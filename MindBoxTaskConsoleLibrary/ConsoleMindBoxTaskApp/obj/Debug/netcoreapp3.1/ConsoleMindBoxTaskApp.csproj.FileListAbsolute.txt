@@ -1,0 +1,17 @@
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\bin\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.exe
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\bin\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.deps.json
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\bin\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.runtimeconfig.json
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\bin\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\bin\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.dll
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\bin\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.pdb
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\bin\Debug\netcoreapp3.1\MindBoxTaskConsoleLibrary.dll
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\bin\Debug\netcoreapp3.1\MindBoxTaskConsoleLibrary.pdb
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\obj\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\obj\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\obj\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\obj\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.AssemblyInfo.cs
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\obj\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\obj\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.csproj.CopyComplete
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\obj\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.dll
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\obj\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.pdb
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\ConsoleMindBoxTaskApp\obj\Debug\netcoreapp3.1\ConsoleMindBoxTaskApp.genruntimeconfig.cache

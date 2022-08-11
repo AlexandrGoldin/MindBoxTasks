@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleMindBoxTaskApp/1.0.0": {
+        "dependencies": {
+          "MindBoxTaskConsoleLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleMindBoxTaskApp.dll": {}
+        }
+      },
+      "MindBoxTaskConsoleLibrary/1.0.0": {
+        "runtime": {
+          "MindBoxTaskConsoleLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleMindBoxTaskApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MindBoxTaskConsoleLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

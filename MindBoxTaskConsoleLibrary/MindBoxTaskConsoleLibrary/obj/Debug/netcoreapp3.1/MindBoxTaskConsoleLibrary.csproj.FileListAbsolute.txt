@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\MindBoxTaskConsoleLibrary\bin\Debug\netcoreapp3.1\MindBoxTaskConsoleLibrary.deps.json
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\MindBoxTaskConsoleLibrary\bin\Debug\netcoreapp3.1\MindBoxTaskConsoleLibrary.dll
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\MindBoxTaskConsoleLibrary\bin\Debug\netcoreapp3.1\MindBoxTaskConsoleLibrary.pdb
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\MindBoxTaskConsoleLibrary\obj\Debug\netcoreapp3.1\MindBoxTaskConsoleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\MindBoxTaskConsoleLibrary\obj\Debug\netcoreapp3.1\MindBoxTaskConsoleLibrary.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\MindBoxTaskConsoleLibrary\obj\Debug\netcoreapp3.1\MindBoxTaskConsoleLibrary.AssemblyInfo.cs
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\MindBoxTaskConsoleLibrary\obj\Debug\netcoreapp3.1\MindBoxTaskConsoleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\MindBoxTaskConsoleLibrary\obj\Debug\netcoreapp3.1\MindBoxTaskConsoleLibrary.dll
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\MindBoxTaskConsoleLibrary\obj\Debug\netcoreapp3.1\MindBoxTaskConsoleLibrary.pdb
+C:\Users\Александр\source\repos\MindBoxTaskConsoleLibrary\MindBoxTaskConsoleLibrary\obj\Debug\netcoreapp3.1\MindBoxTaskConsoleLibrary.csproj.AssemblyReference.cache
