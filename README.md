@@ -19,4 +19,5 @@ __________________
 + Microsoft SQL Server
 + T-SQL DML, DDL, Join, Generate scripts
 
-______
+![query](https://user-images.githubusercontent.com/50864552/184182670-cceb5dfe-cb50-47a6-a520-89045c1e9171.PNG)
+______________________________
